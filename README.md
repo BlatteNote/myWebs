@@ -11,4 +11,4 @@ My project is to build a rapsberry pi server with node.js
 ## project Structure
 
 - **index.html** : main page
-- **style.css** : mainv style sheet
+- **style.css** : main style sheet
