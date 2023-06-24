@@ -12,3 +12,4 @@ My project is to build a rapsberry pi server with node.js
 
 - **index.html** : main page
 - **style.css** : main style sheet
+- **app.js** : main server
